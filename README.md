@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Developing & CyberSec.
 - 🌱 I’m currently coding with Javascript & C#.
-- ❓ Add me on discord if you want to speak with me : Neyeh#0777
+- ❓ Add me on discord if you want to speak with me : Keito#0777
 
 **Dont forget to add my Music Bot (Gohan) 🎵**
 [Add bot](https://pages.github.com/).

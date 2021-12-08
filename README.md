@@ -3,6 +3,6 @@
 **Hi 👋 I'm Keito! 🚀**
 
 - 👀 I’m interested in CyberSec.
-- ❓ Add me on discord if you want to speak with me : Keito#0777
+- ❓ Add me : Keito#0777
 
 

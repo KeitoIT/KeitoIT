@@ -2,7 +2,7 @@
 
 **Hi 👋 I'm Keito! 🚀**
 
-- 👀 I’m interested in CyberSec.
+- 👀 I’m interested in CyberSec & i am a malware & spyware analyst.
 - ❓ Add me : Keito#0777
 
 

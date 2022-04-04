@@ -18,9 +18,6 @@
 <a href="https://instagram.com/keitoit/">
   <img  alt="Keito Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
-<a href="https://open.spotify.com/user/313xwtfuuuggrm5y5qjuuagfa5ee?si=51f5e6ca122444e6">
-  <img  alt="Keito Spotify" width="32px" src="https://cdn.discordapp.com/attachments/885800509502525461/960583417437749268/49097.png" />
-</a>
   </samp>
   
   <br>
@@ -28,7 +25,7 @@
  
  
  <p align="center">
-	<a href="mailto:keitoit@protonmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/me@ohidur.com-_?label=Send%20Mail&style=social&logo=gmail" alt="keitoit@protonmail.com"></a>
+	<a href="mailto:keitoit@protonmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/keitoit@protonmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="keitoit@protonmail.com"></a>
 	<a href="https://twitter.com/neezo667"><img src="https://img.shields.io/twitter/follow/neezo667" alt="Twitter"></a>
 </p>
 
